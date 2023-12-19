@@ -1,0 +1,3 @@
+﻿  Task6.cpp
+E:\WorkRelated\Uni\Level4\Term 1\Module - Programming\Assessment 1 - Task\Task6\Programming\Task6\Task6\Task6.cpp(6,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Task6.vcxproj -> E:\WorkRelated\Uni\Level4\Term 1\Module - Programming\Assessment 1 - Task\Task6\Programming\Task6\Debug\Task6.exe
