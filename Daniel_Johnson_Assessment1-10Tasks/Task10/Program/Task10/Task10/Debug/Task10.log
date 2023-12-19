@@ -1,0 +1,11 @@
+﻿  Task10.cpp
+E:\WorkRelated\Uni\Level4\Term 1\Module - Programming\Assessment 1 - Task\Task10\Program\Task10\Task10\Task10.cpp(13,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\WorkRelated\Uni\Level4\Term 1\Module - Programming\Assessment 1 - Task\Task10\Program\Task10\Task10\Task10.cpp(63,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\WorkRelated\Uni\Level4\Term 1\Module - Programming\Assessment 1 - Task\Task10\Program\Task10\Task10\Task10.cpp(64,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\WorkRelated\Uni\Level4\Term 1\Module - Programming\Assessment 1 - Task\Task10\Program\Task10\Task10\Task10.cpp(65,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\WorkRelated\Uni\Level4\Term 1\Module - Programming\Assessment 1 - Task\Task10\Program\Task10\Task10\Task10.cpp(73,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\WorkRelated\Uni\Level4\Term 1\Module - Programming\Assessment 1 - Task\Task10\Program\Task10\Task10\Task10.cpp(74,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\WorkRelated\Uni\Level4\Term 1\Module - Programming\Assessment 1 - Task\Task10\Program\Task10\Task10\Task10.cpp(75,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\WorkRelated\Uni\Level4\Term 1\Module - Programming\Assessment 1 - Task\Task10\Program\Task10\Task10\Task10.cpp(76,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\WorkRelated\Uni\Level4\Term 1\Module - Programming\Assessment 1 - Task\Task10\Program\Task10\Task10\Task10.cpp(81,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Task10.vcxproj -> E:\WorkRelated\Uni\Level4\Term 1\Module - Programming\Assessment 1 - Task\Task10\Program\Task10\Debug\Task10.exe
