@@ -1,0 +1,34 @@
+﻿  main.cpp
+E:\Daniel_Johnson-TextBasedGame\Daniel_Johnson-BellaCiao-TextBasedGame\Daniel_Johnson-BellaCiao-TextBasedGame\Header.h(23,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Daniel_Johnson-TextBasedGame\Daniel_Johnson-BellaCiao-TextBasedGame\Daniel_Johnson-BellaCiao-TextBasedGame\Header.h(225,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Daniel_Johnson-TextBasedGame\Daniel_Johnson-BellaCiao-TextBasedGame\Daniel_Johnson-BellaCiao-TextBasedGame\Header.h(242,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Daniel_Johnson-TextBasedGame\Daniel_Johnson-BellaCiao-TextBasedGame\Daniel_Johnson-BellaCiao-TextBasedGame\Header.h(269,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Daniel_Johnson-TextBasedGame\Daniel_Johnson-BellaCiao-TextBasedGame\Daniel_Johnson-BellaCiao-TextBasedGame\Header.h(308,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Daniel_Johnson-TextBasedGame\Daniel_Johnson-BellaCiao-TextBasedGame\Daniel_Johnson-BellaCiao-TextBasedGame\Header.h(335,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Daniel_Johnson-TextBasedGame\Daniel_Johnson-BellaCiao-TextBasedGame\Daniel_Johnson-BellaCiao-TextBasedGame\Header.h(371,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Daniel_Johnson-TextBasedGame\Daniel_Johnson-BellaCiao-TextBasedGame\Daniel_Johnson-BellaCiao-TextBasedGame\main.cpp(30,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Daniel_Johnson-TextBasedGame\Daniel_Johnson-BellaCiao-TextBasedGame\Daniel_Johnson-BellaCiao-TextBasedGame\main.cpp(49,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Daniel_Johnson-TextBasedGame\Daniel_Johnson-BellaCiao-TextBasedGame\Daniel_Johnson-BellaCiao-TextBasedGame\main.cpp(105,31): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Daniel_Johnson-TextBasedGame\Daniel_Johnson-BellaCiao-TextBasedGame\Daniel_Johnson-BellaCiao-TextBasedGame\main.cpp(137,31): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Daniel_Johnson-TextBasedGame\Daniel_Johnson-BellaCiao-TextBasedGame\Daniel_Johnson-BellaCiao-TextBasedGame\main.cpp(422,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Daniel_Johnson-TextBasedGame\Daniel_Johnson-BellaCiao-TextBasedGame\Daniel_Johnson-BellaCiao-TextBasedGame\main.cpp(436,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Daniel_Johnson-TextBasedGame\Daniel_Johnson-BellaCiao-TextBasedGame\Daniel_Johnson-BellaCiao-TextBasedGame\main.cpp(602,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Daniel_Johnson-TextBasedGame\Daniel_Johnson-BellaCiao-TextBasedGame\Daniel_Johnson-BellaCiao-TextBasedGame\main.cpp(713,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Daniel_Johnson-TextBasedGame\Daniel_Johnson-BellaCiao-TextBasedGame\Daniel_Johnson-BellaCiao-TextBasedGame\main.cpp(731,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Daniel_Johnson-TextBasedGame\Daniel_Johnson-BellaCiao-TextBasedGame\Daniel_Johnson-BellaCiao-TextBasedGame\Header.h(355): warning C4715: 'Rifle': not all control paths return a value
+E:\Daniel_Johnson-TextBasedGame\Daniel_Johnson-BellaCiao-TextBasedGame\Daniel_Johnson-BellaCiao-TextBasedGame\Header.h(650): warning C4715: 'SupplyCrate': not all control paths return a value
+  Daniel_Johnson-BellaCiao-TextBasedGame.vcxproj -> E:\Daniel_Johnson-TextBasedGame\Daniel_Johnson-BellaCiao-TextBasedGame\x64\Debug\Daniel_Johnson-BellaCiao-TextBasedGame.exe
